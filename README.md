@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm working on :
+
+https://loopea.app
+https://www.aftershows.app
+
 <!--
 **eloandsg/eloandsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
