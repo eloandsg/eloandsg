@@ -1,22 +1,17 @@
-## Hi there 👋
+## Eloan
 
-I'm working on :
+Je construis vite, en public. Fondateur d'Eloan DSG, une agence d'automatisation IA pour les agences immobilières indépendantes. En parallèle, je lance des micro-projets pour apprendre à livrer plutôt qu'à planifier. Voici ce que j'ai construit, ce qui tourne, et ce qui arrive.
 
-https://loopea.app 
-&
-https://www.aftershows.app
+**Portfolio complet : https://eloandsg.github.io**
 
-<!--
-**eloandsg/eloandsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### En ligne
 
-Here are some ideas to get you started:
+- [Loopea](https://loopea.app) : App de suivi d'habitudes avec une carte récap partageable, façon Strava.
+- [AfterShows](https://aftershows.app) : Un livre souvenir pour chaque concert ou festival.
+- [AfterMags](https://mags.aftershows.app) : Le média d'actus musique d'AfterShows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### En construction
+
+- n8n-checkup
+- Motion design et Reels
+- Le Refuge
