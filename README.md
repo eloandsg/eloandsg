@@ -1,6 +1,6 @@
 ## Eloan
 
-Je construis vite, en public. Fondateur d'Eloan DSG, une agence d'automatisation IA pour les agences immobilières indépendantes. En parallèle, je lance des micro-projets pour apprendre à livrer plutôt qu'à planifier. Voici ce que j'ai construit, ce qui tourne, et ce qui arrive.
+Je construis vite, en public. J'accompagne des entreprises à intégrer l'IA et l'automatisation dans leurs processus. En parallèle, je lance des micro-projets pour apprendre à livrer plutôt qu'à planifier. Voici ce que j'ai construit, ce qui tourne, et ce qui arrive.
 
 **Portfolio complet : https://eloandsg.github.io**
 
